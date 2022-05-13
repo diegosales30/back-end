@@ -24,6 +24,7 @@
   ],
   "movies": [
     {
+<<<<<<< HEAD
       "id": 1,
       "name": "Era do Gelo",
       "category": [
@@ -40,10 +41,23 @@
       "trailer": [
         ""
       ]
+=======
+      "id":1,
+      "name":"Era do Gelo",
+      "category":["Animação"],
+      "duration":125,
+      "release_year":2002,
+      "description":"O mamute Manny (Ray Romano/Diogo Vilela), o tigre de dente de sabre Diego (Dennis Leary/Márcio Garcia) e a preguiça-gigante Sid (John Leguizamo/Tadeu Melo) são amigos em uma época muito distante dos dias atuais e vivem suas vidas em meio a muito gelo. Até o dia em que eles encontram um menino esquimó totalmente sozinho, longe de seus pais, e decidem que precisam ajudá-lo a achar a sua família. Enquanto isso, o esquilo pré-histórico Scrat segue na sua saga para manter sua amada noz protegida de outros predadores.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/Ru8CGRD.jpg",
+      "age_rating":0,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 2,
       "name": "Downton Abbey II: Uma Nova Era",
+<<<<<<< HEAD
       "category": [
         "Drama"
       ],
@@ -59,10 +73,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=zJtgs_5SQyQ"
       ]
+=======
+      "category":["Drama"],
+      "duration":125,
+      "release_year":2022,
+      "description":"Em Downton Abbey II: Uma Nova Era, depois de hospedar a família real e ir ao baile real, a nobre família Crawley se mete em um mistério. Um dia, a Condessa Viúva chama seu filho e sua neta mais velha para contar um segredo que não revelou por anos: ela herdou uma villa no sul da França. Ao ser questionada, ela diz que foi um estranho que perguntou e ela não hesitou em ter mais uma propriedade. Mas sem saber o porque que alguém queria dar o terreno para a Viúva e em saber aonde exatamente o local fica, a família Crawley decide ir para o sul da França e desvendar o mistério. Lá, encontrarão várias celebridades e fofocas da elite francesa do século XX. Enquanto isso, um casamento está prestes a começar entre Tom Branson e Lucy Smith; Mary fazendo seu estreia como diretora e a nova cabeça da família Crawley.",
+      "plataform_stream":["Cinemark", "Moviecom"],
+      "image":"https://i.imgur.com/qo9e3Ka.jpg",
+      "age_rating":12,
+      "trailer":["https://www.youtube.com/watch?v=zJtgs_5SQyQ"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 3,
       "name": "Jujutsu Kaisen 0",
+<<<<<<< HEAD
       "category": [
         "Anime"
       ],
@@ -78,10 +103,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=j90f2NyTPho"
       ]
+=======
+      "category":["Anime"],
+      "duration":105,
+      "release_year":2022,
+      "description":"'Eu prometo. Quando formos grandes, nós vamos nos casar!' Quando Yuta Okkotsu era pequeno, sua amiga Rika Orimoto morreu num acidente de trânsito, bem na sua frente. Ela se tornou uma aparição, assombrando o jovem e atormentando a sua vida, até o dia em que Satoru Gojo, um feiticeiro Jujutsu, o convida para se matricular no Colégio Jujutsu. Junto com seus novos colegas de sala - Maki Zen'in, Toge Inumaki e Panda - Yuta encontra a coragem para perseverar. Enquanto isso, Suguru Geto, um vil manipulador de maldições que foi expulso do colégio por massacrar inocentes, põe em prática seu plano: lançar mil maldições em Shinjuku e em Kyoto e exterminar todos os não-feiticeiros, criando um paraíso para feiticeiros Jujutsu. Será que Yuta será capaz de impedir Geto? E o que acontecerá quando ele se livrar da maldição da Rika?",
+      "plataform_stream":["Cinemark", "Moviecom"],
+      "image":"https://i.imgur.com/S5xqSmn.jpg",
+      "age_rating":14,
+      "trailer":["https://www.youtube.com/watch?v=j90f2NyTPho"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 4,
       "name": "Cidade Perdida",
+<<<<<<< HEAD
       "category": [
         "Comédia"
       ],
@@ -97,10 +133,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=5aAy17pCKb4"
       ]
+=======
+      "category":["Comédia"],
+      "duration":110,
+      "release_year":2022,
+      "description":"Uma romancista em um tour de livro com seu modelo de capa é envolvida em uma tentativa de sequestro que os leva a uma aventura implacável na selva.",
+      "plataform_stream":["Cinmark", "Moviecom"],
+      "image":"https://i.imgur.com/k2zdYiH.jpg",
+      "age_rating":14,
+      "trailer":["https://www.youtube.com/watch?v=5aAy17pCKb4"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 5,
       "name": "Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo",
+<<<<<<< HEAD
       "category": [
         "Familia",
         "Nacional"
@@ -117,10 +164,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=PE1lXxWFmp0"
       ]
+=======
+      "category":["Familia", "Nacional"],
+      "duration":105,
+      "release_year":2022,
+      "description":"Severino encontra um medalhão mágico e fica enfeitiçado. Para salvar o amigo e impedir que as forças do mal o dominem para sempre, Sol, Bento, Pippo e a feiticeira Berenice embarcam em uma aventura gelada na neve e vão até o Fim do Mundo!",
+      "plataform_stream":["Cinemark", "Moviecom"],
+      "image":"https://i.imgur.com/hEarV1O.jpg",
+      "age_rating":0,
+      "trailer":["https://www.youtube.com/watch?v=PE1lXxWFmp0"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 6,
       "name": "Medida Provisória",
+<<<<<<< HEAD
       "category": [
         "Crama",
         "Nacional"
@@ -137,10 +195,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=f0uND6Lx5ZE"
       ]
+=======
+      "category":["Crama", "Nacional"],
+      "duration":100,
+      "release_year":2022,
+      "description":"Num futuro distópico, o governo brasileiro decreta uma medida provisória que obriga os cidadãos negros a ‘voltarem’ à África como forma de reparar os tempos de escravidão. O advogado Antônio (Alfred Enoch), sua companheira, a médica Capitu (Taís Araújo), e seu primo, o jornalista André (Seu Jorge) decidem resistir, uns confinados em suas casas, outros no Afrobunker – movimento que vai lutar pelo direito de permanecerem em seu país.",
+      "plataform_stream":["Cinemark", "Moviecom"],
+      "image":"https://i.imgur.com/n7Q8ipj.jpg",
+      "age_rating":14,
+      "trailer":["https://www.youtube.com/watch?v=f0uND6Lx5ZE"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 7,
       "name": "Sonic 2",
+<<<<<<< HEAD
       "category": [
         "Aventura"
       ],
@@ -155,10 +224,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=IrJeYZgzIqw"
       ]
+=======
+      "category":["Aventura"],
+      "duration":120,
+      "release_year":2022,
+      "description":"O Dr. Robotnik retorna à procura de uma esmeralda mística que tem o poder de destruir civilizações. Para detê-lo, Sonic se une a seu antigo parceiro, Tails, e parte em uma jornada para encontrar a joia antes que ela caia em mãos erradas.",
+      "plataform_stream":["Cinemark"],
+      "image":"https://i.imgur.com/6jfcB1y.jpg",
+      "age_rating":10,
+      "trailer":["https://www.youtube.com/watch?v=IrJeYZgzIqw"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 8,
       "name": "Animais Fantásticos: Os Segredos de Dumbledore",
+<<<<<<< HEAD
       "category": [
         "Aventura",
         "Fantasia"
@@ -174,10 +254,21 @@
       "trailer": [
         "https://www.youtube.com/watch?v=5SjYFF2g35c"
       ]
+=======
+      "category":["Aventura", "Fantasia"],
+      "duration":142,
+      "release_year":2022,
+      "description":"O professor Alvo Dumbledore (Jude Law) sabe que o poderoso mago das trevas Gellert Grindelwald (Mads Mikkelsen) está se movimentando para assumir o controle do mundo mágico.",
+      "plataform_stream":["Cinemark"],
+      "image":"https://i.imgur.com/SJOqbwA.png",
+      "age_rating":16,
+      "trailer":["https://www.youtube.com/watch?v=5SjYFF2g35c"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 9,
       "name": "Homem de Ferro",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -193,10 +284,21 @@
       "trailer": [
         "https://www.disneyplus.com/video/a5f16548-8412-456a-a152-b6caf200d2c1"
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":125,
+      "release_year":2008,
+      "description":"Tony Stark é um industrial bilionário e inventor brilhante que realiza testes bélicos no exterior, mas é sequestrado por terroristas que o forçam a construir uma arma devastadora. Em vez disso, ele constrói uma armadura blindada e enfrenta seus sequestradores. Ao voltar para os EUA, Stark aprimora a armadura e a utiliza para combater o crime.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/1AjiIxW.jpg",
+      "age_rating":12,
+      "trailer":["https://www.disneyplus.com/video/a5f16548-8412-456a-a152-b6caf200d2c1"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 10,
       "name": "O Incrível Hulk",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -216,10 +318,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":112,
+      "release_year":2008,
+      "description":"O cientista Bruce Banner se esconde no Brasil enquanto busca desesperadamente a cura da mutação que o transforma em um monstro incontrolável. Só assim ele poderá novamente levar uma vida normal e ficar ao lado da mulher que ama. Porém, durante este processo, ele precisa lutar contra o Abominável, um novo inimigo que quer capturá-lo.",
+      "plataform_stream":["Netflix", "Star+", "Youtube", "Amazon Prime Video", "AppleTV"],
+      "image":"https://i.imgur.com/KEI6ORR.jpg",
+      "age_rating":10,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 11,
       "name": "Homem de Ferro 2",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -235,10 +348,21 @@
       "trailer": [
         "https://www.disneyplus.com/pt-br/video/1a297cf5-c93e-4e42-8d43-eb60c9603b11"
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":125,
+      "release_year":2010,
+      "description":"Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas. Com a bela Pepper Potts e o amigo 'Rhodey' Rhodes ao seu lado, Tony precisa forjar novas alianças e confrontar um inimigo poderoso.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/7PBntIa.jpg",
+      "age_rating":12,
+      "trailer":["https://www.disneyplus.com/pt-br/video/1a297cf5-c93e-4e42-8d43-eb60c9603b11"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 12,
       "name": "Capitão América: O Primeiro Vingador",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -254,10 +378,21 @@
       "trailer": [
         "https://www.disneyplus.com/pt-br/video/8c779f9a-db98-4843-bb10-00faa0c75101"
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":124,
+      "release_year":2011,
+      "description":"Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/W3i7K5X.jpg",
+      "age_rating":12,
+      "trailer":["https://www.disneyplus.com/pt-br/video/8c779f9a-db98-4843-bb10-00faa0c75101"]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 13,
       "name": "Thor",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -273,10 +408,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":114,
+      "release_year":2011,
+      "description":"Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/Z5KFpWi.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 14,
       "name": "Homem de Ferro 3",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -292,10 +438,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":130,
+      "release_year":2013,
+      "description":"Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/4VwWxMx.jpg",
+      "age_rating":2013,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 15,
       "name": "Os Vingadores – The Avengers",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -311,10 +468,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":143,
+      "release_year":2012,
+      "description":"Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/4ZJ24U3.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 16,
       "name": "Capitão América 2: O Soldado Invernal",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -330,10 +498,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":136,
+      "release_year":2014,
+      "description":"Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, também conhecido como Capitão América, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/PxRFoVM.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 17,
       "name": "Thor: O Mundo Sombrio",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -349,10 +528,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":112,
+      "release_year":2013,
+      "description":"Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/PaZ1HbL.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 18,
       "name": "Guardiões da Galáxia",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -368,10 +558,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":122,
+      "release_year":2014,
+      "description":"O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/p7VQ5Rn.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 19,
       "name": "Vingadores: Era de Ultron",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -387,10 +588,21 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":141,
+      "release_year":2015,
+      "description":"Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, Capitão América, Homem de Ferro, Thor, Hulk, Viúva Negra e Gavião Arqueiro terão que se unir para mais uma vez salvar a raça humana da extinção.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/CBfcnoh.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     },
     {
       "id": 20,
       "name": "Capitão América: Guerra Civil",
+<<<<<<< HEAD
       "category": [
         "Super-Heróis",
         "Açao"
@@ -406,6 +618,16 @@
       "trailer": [
         ""
       ]
+=======
+      "category":["Super-Heróis", "Açao"],
+      "duration":148,
+      "release_year":2016,
+      "description":"Depois do ataque de Ultron, os políticos decidem controlar os Vingadores, já que suas ações afetam toda a humanidade. A decisão coloca o Capitão América em rota de colisão com o Homem de Ferro.",
+      "plataform_stream":["Disney+"],
+      "image":"https://i.imgur.com/bWCaRhy.jpg",
+      "age_rating":12,
+      "trailer":[""]
+>>>>>>> 9e0c130bc0ffc67c58d38ac11e2acab7159e1a18
     }
   ],
   "city": [
