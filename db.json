@@ -26,7 +26,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/Ru8CGRD.jpg",
       "age_rating":0,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":2,
@@ -36,9 +37,10 @@
       "release_year":2022,
       "description":"Em Downton Abbey II: Uma Nova Era, depois de hospedar a família real e ir ao baile real, a nobre família Crawley se mete em um mistério. Um dia, a Condessa Viúva chama seu filho e sua neta mais velha para contar um segredo que não revelou por anos: ela herdou uma villa no sul da França. Ao ser questionada, ela diz que foi um estranho que perguntou e ela não hesitou em ter mais uma propriedade. Mas sem saber o porque que alguém queria dar o terreno para a Viúva e em saber aonde exatamente o local fica, a família Crawley decide ir para o sul da França e desvendar o mistério. Lá, encontrarão várias celebridades e fofocas da elite francesa do século XX. Enquanto isso, um casamento está prestes a começar entre Tom Branson e Lucy Smith; Mary fazendo seu estreia como diretora e a nova cabeça da família Crawley.",
       "plataform_stream":["Cinemark", "Moviecom"],
-      "image":"https://i.imgur.com/qo9e3Ka.jpg",
+      "image":"https://i.imgur.com/qo9e3Ka.jpg", 
       "age_rating":12,
-      "trailer":["https://www.youtube.com/watch?v=zJtgs_5SQyQ"]
+      "trailer":["https://www.youtube.com/watch?v=zJtgs_5SQyQ"],
+      "movie_session":true
     },
     {
       "id":3,
@@ -50,7 +52,8 @@
       "plataform_stream":["Cinemark", "Moviecom"],
       "image":"https://i.imgur.com/S5xqSmn.jpg",
       "age_rating":14,
-      "trailer":["https://www.youtube.com/watch?v=j90f2NyTPho"]
+      "trailer":["https://www.youtube.com/watch?v=j90f2NyTPho"],
+      "movie_session":true
     },
     {
       "id":4,
@@ -62,7 +65,8 @@
       "plataform_stream":["Cinmark", "Moviecom"],
       "image":"https://i.imgur.com/k2zdYiH.jpg",
       "age_rating":14,
-      "trailer":["https://www.youtube.com/watch?v=5aAy17pCKb4"]
+      "trailer":["https://www.youtube.com/watch?v=5aAy17pCKb4"],
+      "movie_session":true
     },
     {
       "id":5,
@@ -74,7 +78,8 @@
       "plataform_stream":["Cinemark", "Moviecom"],
       "image":"https://i.imgur.com/hEarV1O.jpg",
       "age_rating":0,
-      "trailer":["https://www.youtube.com/watch?v=PE1lXxWFmp0"]
+      "trailer":["https://www.youtube.com/watch?v=PE1lXxWFmp0"],
+      "movie_session":true
     },
     {
       "id":6,
@@ -86,7 +91,8 @@
       "plataform_stream":["Cinemark", "Moviecom"],
       "image":"https://i.imgur.com/n7Q8ipj.jpg",
       "age_rating":14,
-      "trailer":["https://www.youtube.com/watch?v=f0uND6Lx5ZE"]
+      "trailer":["https://www.youtube.com/watch?v=f0uND6Lx5ZE"],
+      "movie_session":true
     },
     {
       "id":7,
@@ -98,7 +104,8 @@
       "plataform_stream":["Cinemark"],
       "image":"https://i.imgur.com/6jfcB1y.jpg",
       "age_rating":10,
-      "trailer":["https://www.youtube.com/watch?v=IrJeYZgzIqw"]
+      "trailer":["https://www.youtube.com/watch?v=IrJeYZgzIqw"],
+      "movie_session":true
     },
     {
       "id":8,
@@ -110,7 +117,8 @@
       "plataform_stream":["Cinemark"],
       "image":"https://i.imgur.com/SJOqbwA.png",
       "age_rating":16,
-      "trailer":["https://www.youtube.com/watch?v=5SjYFF2g35c"]
+      "trailer":["https://www.youtube.com/watch?v=5SjYFF2g35c"],
+      "movie_session":true
     },
     {
       "id":9,
@@ -122,7 +130,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/1AjiIxW.jpg",
       "age_rating":12,
-      "trailer":["https://www.disneyplus.com/video/a5f16548-8412-456a-a152-b6caf200d2c1"]
+      "trailer":["https://www.disneyplus.com/video/a5f16548-8412-456a-a152-b6caf200d2c1"],
+      "movie_session":false
     },
     {
       "id":10,
@@ -134,7 +143,8 @@
       "plataform_stream":["Netflix", "Star+", "Youtube", "Amazon Prime Video", "AppleTV"],
       "image":"https://i.imgur.com/KEI6ORR.jpg",
       "age_rating":10,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":11,
@@ -146,7 +156,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/7PBntIa.jpg",
       "age_rating":12,
-      "trailer":["https://www.disneyplus.com/pt-br/video/1a297cf5-c93e-4e42-8d43-eb60c9603b11"]
+      "trailer":["https://www.disneyplus.com/pt-br/video/1a297cf5-c93e-4e42-8d43-eb60c9603b11"],
+      "movie_session":false
     },
     {
       "id":12,
@@ -158,7 +169,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/W3i7K5X.jpg",
       "age_rating":12,
-      "trailer":["https://www.disneyplus.com/pt-br/video/8c779f9a-db98-4843-bb10-00faa0c75101"]
+      "trailer":["https://www.disneyplus.com/pt-br/video/8c779f9a-db98-4843-bb10-00faa0c75101"],
+      "movie_session":false
     },
     {
       "id":13,
@@ -170,7 +182,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/Z5KFpWi.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":14,
@@ -182,7 +195,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/4VwWxMx.jpg",
       "age_rating":2013,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":15,
@@ -194,7 +208,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/4ZJ24U3.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":16,
@@ -206,7 +221,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/PxRFoVM.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":17,
@@ -218,7 +234,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/PaZ1HbL.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":18,
@@ -230,7 +247,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/p7VQ5Rn.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":19,
@@ -242,7 +260,8 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/CBfcnoh.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     },
     {
       "id":20,
@@ -254,13 +273,16 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/bWCaRhy.jpg",
       "age_rating":12,
-      "trailer":[""]
+      "trailer":[""],
+      "movie_session":false
     }
   ],
   "city":[
     {
       "name":"Taubaté",
-      "cine":["cinemark", "moviecom"]
+      "cine":{
+
+      }
     }
   ]
 }
