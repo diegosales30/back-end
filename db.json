@@ -627,7 +627,12 @@
             {"name":"Sala 3D",
               "time": ["14:40", "17:40", "20:40"]
             }
-          ]},
+          ],
+        "price":{
+          "week":20,
+          "weekend":40
+        }
+      },
         {"name":"Moviecom",
           "rooms": [
             {"name":"Sala 1",
@@ -645,7 +650,12 @@
             {"name":"Sala 3D",
               "time": ["14:40", "17:40", "20:40"]
             }
-          ]}
+          ],
+          "price":{
+            "week":20,
+            "weekend":40
+          }
+        }
       ]
     },
     {
@@ -668,7 +678,11 @@
             {"name":"Sala 3D",
               "time": ["14:40", "17:40", "20:40"]
             }
-          ]}]
+          ],
+          "price":{
+            "week":20,
+            "weekend":40
+          }}]
     },
     {
       "name":"Chapecó",
@@ -690,7 +704,11 @@
             {"name":"Sala 3D",
               "time": ["14:40", "17:40", "20:40"]
             }
-          ]}]
+          ],
+          "price":{
+            "week":20,
+            "weekend":40
+          }}]
     },
     {
       "name":"Nova Hamburgo",
@@ -712,7 +730,11 @@
             {"name":"Sala 3D",
               "time": ["14:40", "17:40", "20:40"]
             }
-          ]}]
+          ],
+          "price":{
+            "week":20,
+            "weekend":40
+          }}]
     },
     {
       "name":"Rio de Janeiro",
@@ -737,7 +759,11 @@
             {"name":"Sala 3D",
               "time": ["14:40", "17:40", "20:40"]
             }
-          ]},
+          ],
+          "price":{
+            "week":20,
+            "weekend":40
+          }},
           {"name":"CineSystem",
             "rooms": [
               {"name":"Sala 1",
@@ -755,7 +781,11 @@
               {"name":"Sala 3D",
                 "time": ["14:40", "17:40", "20:40"]
               }
-            ]},
+            ],
+            "price":{
+              "week":20,
+              "weekend":40
+            }},
             {"name":"Kinoplex",
               "rooms": [
                 {"name":"Sala 1",
@@ -773,7 +803,11 @@
                 {"name":"Sala 3D",
                   "time": ["14:40", "17:40", "20:40"]
                 }
-              ]}
+              ],
+              "price":{
+                "week":20,
+                "weekend":40
+              }}
         ]
     }
 
