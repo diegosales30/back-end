@@ -2,14 +2,14 @@
   "users": [
     {
       "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "password": "12345678",
       "name": "Kenzinho",
       "age": 38,
       "id": 1
     },
     {
       "email": "movie@mail.com",
-      "password": "$2a$10$hx1KgcuJo57KxQGWawN9hOzqqpVX7LbuBR0qSchWiv5oWfOhpg2ue",
+      "password": "12345678",
       "name": "movie",
       "age": 1,
       "id": 2
@@ -27,7 +27,9 @@
       "image":"https://i.imgur.com/Ru8CGRD.jpg",
       "age_rating":0,
       "trailer":[""],
-      "movie_session":false
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":2,
@@ -40,7 +42,44 @@
       "image":"https://i.imgur.com/qo9e3Ka.jpg", 
       "age_rating":12,
       "trailer":["https://www.youtube.com/watch?v=zJtgs_5SQyQ"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 1"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 1"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 1"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 1"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 1"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 1"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 1"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 1"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 1"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":3,
@@ -53,7 +92,35 @@
       "image":"https://i.imgur.com/S5xqSmn.jpg",
       "age_rating":14,
       "trailer":["https://www.youtube.com/watch?v=j90f2NyTPho"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 2"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 2"]}
+            ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 2"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 2"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 2"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 2"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":4,
@@ -66,7 +133,44 @@
       "image":"https://i.imgur.com/k2zdYiH.jpg",
       "age_rating":14,
       "trailer":["https://www.youtube.com/watch?v=5aAy17pCKb4"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 3"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 2"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 3"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 2"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 3"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 3"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 3"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 2"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 3"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":5,
@@ -79,7 +183,44 @@
       "image":"https://i.imgur.com/hEarV1O.jpg",
       "age_rating":0,
       "trailer":["https://www.youtube.com/watch?v=PE1lXxWFmp0"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 4"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 3"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 4"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 3"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 4"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 4"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 4"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 3"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 4"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":6,
@@ -92,7 +233,44 @@
       "image":"https://i.imgur.com/n7Q8ipj.jpg",
       "age_rating":14,
       "trailer":["https://www.youtube.com/watch?v=f0uND6Lx5ZE"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 5"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 4"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 5"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 5"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 5"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 5"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 5"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 4"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 5"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":7,
@@ -105,7 +283,44 @@
       "image":"https://i.imgur.com/6jfcB1y.jpg",
       "age_rating":10,
       "trailer":["https://www.youtube.com/watch?v=IrJeYZgzIqw"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 1"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 1"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 1"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 1"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 1"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 1"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 1"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 1"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 1"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":8,
@@ -118,7 +333,44 @@
       "image":"https://i.imgur.com/SJOqbwA.png",
       "age_rating":16,
       "trailer":["https://www.youtube.com/watch?v=5SjYFF2g35c"],
-      "movie_session":true
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 1"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 1"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 1"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 1"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 1"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 1"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 1"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 1"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 1"]}
+                  ]}
+        ]
+      }
     },
     {
       "id":9,
@@ -131,7 +383,9 @@
       "image":"https://i.imgur.com/1AjiIxW.jpg",
       "age_rating":12,
       "trailer":["https://www.disneyplus.com/video/a5f16548-8412-456a-a152-b6caf200d2c1"],
-      "movie_session":false
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":10,
@@ -144,7 +398,9 @@
       "image":"https://i.imgur.com/KEI6ORR.jpg",
       "age_rating":10,
       "trailer":[""],
-      "movie_session":false
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":11,
@@ -157,7 +413,9 @@
       "image":"https://i.imgur.com/7PBntIa.jpg",
       "age_rating":12,
       "trailer":["https://www.disneyplus.com/pt-br/video/1a297cf5-c93e-4e42-8d43-eb60c9603b11"],
-      "movie_session":false
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":12,
@@ -170,7 +428,9 @@
       "image":"https://i.imgur.com/W3i7K5X.jpg",
       "age_rating":12,
       "trailer":["https://www.disneyplus.com/pt-br/video/8c779f9a-db98-4843-bb10-00faa0c75101"],
-      "movie_session":false
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":13,
@@ -182,8 +442,10 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/Z5KFpWi.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.disneyplus.com/pt-br/video/91947259-05ed-4ff1-bc2c-c2095b38a464"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":14,
@@ -195,8 +457,10 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/4VwWxMx.jpg",
       "age_rating":2013,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=igfXmU1r_mc"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":15,
@@ -208,8 +472,10 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/4ZJ24U3.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=KeNEGtsCWEk"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":16,
@@ -221,12 +487,14 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/PxRFoVM.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=Fl89Ym_fQJc"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":17,
-      "name": "Thor: O Mundo Sombrio",
+        "name": "Thor: O Mundo Sombrio",
       "category":["Super-Heróis", "Açao"],
       "duration":112,
       "release_year":2013,
@@ -234,8 +502,10 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/PaZ1HbL.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=BmCT2nQu90A"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":18,
@@ -247,8 +517,10 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/p7VQ5Rn.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=8VN_l57QWyQ"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":19,
@@ -260,8 +532,10 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/CBfcnoh.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=lGO6FcnZ0ek"],
+      "movie_session":{
+        "status": false
+      }
     },
     {
       "id":20,
@@ -273,16 +547,236 @@
       "plataform_stream":["Disney+"],
       "image":"https://i.imgur.com/bWCaRhy.jpg",
       "age_rating":12,
-      "trailer":[""],
-      "movie_session":false
+      "trailer":["https://www.youtube.com/watch?v=FRLYZn5PGuA"],
+      "movie_session":{
+        "status": false
+      }
+    },
+    {
+      "id":21,
+      "name": "Doutor Estranho no Multiverso da Loucura",
+      "category":["Super-Heróis", "Terror"],
+      "duration":126,
+      "release_year":2022,
+      "description":"O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa as realidades alternativas incompreensíveis e perigosas do Multiverso para enfrentar um novo e misterioso adversário.",
+      "plataform_stream":[],
+      "image":"https://i.imgur.com/NJPeLSk.jpg",
+      "age_rating":14,
+      "trailer":["https://www.youtube.com/watch?v=X23XCFgdh2M&t=5s"],
+      "movie_session":{
+        "status": true,
+        "city":[
+          {"name":"Taubaté",
+          "cinemas":[
+            {"name":"Cinemark",
+            "rooms":["Sala 1"]},
+            {"name":"Moviecom",
+            "rooms":["Sala 1"]}
+          ]},
+          {"name":"Maringá",
+            "cinemas":[
+              {"name":"CineFlix",
+              "rooms":["Sala 1"]}
+            ]},
+            {"name":"Chapecó",
+              "cinemas":[
+                {"name":"Arcoplex",
+                "rooms":["Sala 1"]}
+              ]},
+              {"name":"Nova Hamburgo",
+                "cinemas":[
+                  {"name":"CineEspaço",
+                  "rooms":["Sala 1"]},
+                  {"name":"Moviecom",
+                  "rooms":["Sala 1"]}
+                ]},
+                {"name":"Rio de Janeiro",
+                  "cinemas":[
+                    {"name":"Cinemark",
+                    "rooms":["Sala 1"]},
+                    {"name":"CineSystem",
+                    "rooms":["Sala 1"]},
+                    {"name":"Kinoplex",
+                      "rooms":["Sala 1"]}
+                  ]}
+        ]
+      }
     }
   ],
   "city":[
     {
       "name":"Taubaté",
-      "cine":{
-
-      }
+      "cine":[
+        {"name":"Cinemark",
+          "rooms": [
+            {"name":"Sala 1",
+              "time": ["14:00", "17:00", "20:00"]
+            },
+            {"name":"Sala 2",
+              "time": ["14:30", "17:30", "20:30"]
+            },
+            {"name":"Sala 3",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 4",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 5",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 3D",
+              "time": ["14:40", "17:40", "20:40"]
+            }
+          ]},
+        {"name":"Moviecom",
+          "rooms": [
+            {"name":"Sala 1",
+              "time": ["14:00", "17:00", "20:00"]
+            },
+            {"name":"Sala 2",
+              "time": ["14:30", "17:30", "20:30"]
+            },
+            {"name":"Sala 3",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 4",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 3D",
+              "time": ["14:40", "17:40", "20:40"]
+            }
+          ]}
+      ]
+    },
+    {
+      "name":"Maringá",
+      "cine":[
+        {"name":"CineFlix",
+          "rooms": [
+            {"name":"Sala 1",
+              "time": ["14:00", "17:00", "20:00"]
+            },
+            {"name":"Sala 2",
+              "time": ["14:30", "17:30", "20:30"]
+            },
+            {"name":"Sala 3",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 4",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 3D",
+              "time": ["14:40", "17:40", "20:40"]
+            }
+          ]}]
+    },
+    {
+      "name":"Chapecó",
+      "cine":[
+        {"name":"Arcoplex",
+          "rooms": [
+            {"name":"Sala 1",
+              "time": ["14:00", "17:00", "20:00"]
+            },
+            {"name":"Sala 2",
+              "time": ["14:30", "17:30", "20:30"]
+            },
+            {"name":"Sala 3",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 4",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 3D",
+              "time": ["14:40", "17:40", "20:40"]
+            }
+          ]}]
+    },
+    {
+      "name":"Nova Hamburgo",
+      "cine":[
+        {"name":"CineEspaço",
+          "rooms": [
+            {"name":"Sala 1",
+              "time": ["14:00", "17:00", "20:00"]
+            },
+            {"name":"Sala 2",
+              "time": ["14:30", "17:30", "20:30"]
+            },
+            {"name":"Sala 3",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 4",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 3D",
+              "time": ["14:40", "17:40", "20:40"]
+            }
+          ]}]
+    },
+    {
+      "name":"Rio de Janeiro",
+      "cine":[
+        {"name":"Cinamark",
+          "rooms": [
+            {"name":"Sala 1",
+              "time": ["14:00", "17:00", "20:00"]
+            },
+            {"name":"Sala 2",
+              "time": ["14:30", "17:30", "20:30"]
+            },
+            {"name":"Sala 3",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 4",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 5",
+              "time": ["15:00", "18:00", "21:00"]
+            },
+            {"name":"Sala 3D",
+              "time": ["14:40", "17:40", "20:40"]
+            }
+          ]},
+          {"name":"CineSystem",
+            "rooms": [
+              {"name":"Sala 1",
+                "time": ["14:00", "17:00", "20:00"]
+              },
+              {"name":"Sala 2",
+                "time": ["14:30", "17:30", "20:30"]
+              },
+              {"name":"Sala 3",
+                "time": ["15:00", "18:00", "21:00"]
+              },
+              {"name":"Sala 4",
+                "time": ["15:00", "18:00", "21:00"]
+              },
+              {"name":"Sala 3D",
+                "time": ["14:40", "17:40", "20:40"]
+              }
+            ]},
+            {"name":"Kinoplex",
+              "rooms": [
+                {"name":"Sala 1",
+                  "time": ["14:00", "17:00", "20:00"]
+                },
+                {"name":"Sala 2",
+                  "time": ["14:30", "17:30", "20:30"]
+                },
+                {"name":"Sala 3",
+                  "time": ["15:00", "18:00", "21:00"]
+                },
+                {"name":"Sala 4",
+                  "time": ["15:00", "18:00", "21:00"]
+                },
+                {"name":"Sala 3D",
+                  "time": ["14:40", "17:40", "20:40"]
+                }
+              ]}
+        ]
     }
+
+
   ]
 }
