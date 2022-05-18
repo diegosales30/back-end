@@ -640,21 +640,7 @@
         "status": false
       }
     },
-    {
-      "id": 17,
-      "name": "Thor: O Mundo Sombrio",
-      "category": ["Super-Heróis", "Açao"],
-      "duration": 112,
-      "release_year": 2013,
-      "description": "Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.",
-      "plataform_stream": ["Disney+"],
-      "image": "https://i.imgur.com/PaZ1HbL.jpg",
-      "age_rating": 12,
-      "trailer": ["https://www.youtube.com/watch?v=BmCT2nQu90A"],
-      "movie_session": {
-        "status": false
-      }
-    },
+
     {
       "id": 18,
       "name": "Guardiões da Galáxia",
