@@ -10,6 +10,8 @@
 
 -- https://localhost:3001/login ou /register
 -- localhost:3001/login
+-- https://localhost:3001/login ou /register
+-- localhost:3001/login
 
 ### Cadastro
 

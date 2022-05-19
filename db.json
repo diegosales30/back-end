@@ -17,7 +17,7 @@
       "my_orders":[]
     }
   ],
-  "movies":[
+  "movies": [
     {
       "id":1,
       "name":"Era do Gelo",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "id":2,
+      "id": 2,
       "name": "Downton Abbey II: Uma Nova Era",
       "category":["Drama"],
       "duration":125,
@@ -48,45 +48,42 @@
       "trailer":["https://www.youtube.com/watch?v=zJtgs_5SQyQ"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 1"]},
-            {"name":"Moviecom",
-            "rooms":["Sala 1"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 1"]}
-            ]},
-            {"name":"Chapecó",
-              "cinemas":[
-                {"name":"Arcoplex",
-                "rooms":["Sala 1"]}
-              ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 1"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 1"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 1"]},
-                    {"name":"CineSystem",
-                    "rooms":["Sala 1"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 1"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 1"] },
+              { "name": "Moviecom", "rooms": ["Sala 1"] }
+            ]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 1"] }]
+          },
+          {
+            "name": "Chapecó",
+            "cinemas": [{ "name": "Arcoplex", "rooms": ["Sala 1"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 1"] },
+              { "name": "Moviecom", "rooms": ["Sala 1"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 1"] },
+              { "name": "CineSystem", "rooms": ["Sala 1"] },
+              { "name": "Kinoplex", "rooms": ["Sala 1"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":3,
+      "id": 3,
       "name": "Jujutsu Kaisen 0",
       "category":["Anime"],
       "duration":105,
@@ -99,36 +96,34 @@
       "trailer":["https://www.youtube.com/watch?v=j90f2NyTPho"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 2"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 2"]}
-            ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 2"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 2"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 2"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 2"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [{ "name": "Cinemark", "rooms": ["Sala 2"] }]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 2"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 2"] },
+              { "name": "Moviecom", "rooms": ["Sala 2"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 2"] },
+              { "name": "Kinoplex", "rooms": ["Sala 2"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":4,
+      "id": 4,
       "name": "Cidade Perdida",
       "category":["Comédia"],
       "duration":110,
@@ -141,45 +136,42 @@
       "trailer":["https://www.youtube.com/watch?v=5aAy17pCKb4"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 3"]},
-            {"name":"Moviecom",
-            "rooms":["Sala 2"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 3"]}
-            ]},
-            {"name":"Chapecó",
-              "cinemas":[
-                {"name":"Arcoplex",
-                "rooms":["Sala 2"]}
-              ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 3"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 3"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 3"]},
-                    {"name":"CineSystem",
-                    "rooms":["Sala 2"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 3"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 3"] },
+              { "name": "Moviecom", "rooms": ["Sala 2"] }
+            ]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 3"] }]
+          },
+          {
+            "name": "Chapecó",
+            "cinemas": [{ "name": "Arcoplex", "rooms": ["Sala 2"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 3"] },
+              { "name": "Moviecom", "rooms": ["Sala 3"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 3"] },
+              { "name": "CineSystem", "rooms": ["Sala 2"] },
+              { "name": "Kinoplex", "rooms": ["Sala 3"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":5,
+      "id": 5,
       "name": "Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo",
       "category":["Familia", "Nacional"],
       "duration":105,
@@ -192,45 +184,42 @@
       "trailer":["https://www.youtube.com/watch?v=PE1lXxWFmp0"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 4"]},
-            {"name":"Moviecom",
-            "rooms":["Sala 3"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 4"]}
-            ]},
-            {"name":"Chapecó",
-              "cinemas":[
-                {"name":"Arcoplex",
-                "rooms":["Sala 3"]}
-              ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 4"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 4"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 4"]},
-                    {"name":"CineSystem",
-                    "rooms":["Sala 3"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 4"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 4"] },
+              { "name": "Moviecom", "rooms": ["Sala 3"] }
+            ]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 4"] }]
+          },
+          {
+            "name": "Chapecó",
+            "cinemas": [{ "name": "Arcoplex", "rooms": ["Sala 3"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 4"] },
+              { "name": "Moviecom", "rooms": ["Sala 4"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 4"] },
+              { "name": "CineSystem", "rooms": ["Sala 3"] },
+              { "name": "Kinoplex", "rooms": ["Sala 4"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":6,
+      "id": 6,
       "name": "Medida Provisória",
       "category":["Crama", "Nacional"],
       "duration":100,
@@ -243,45 +232,42 @@
       "trailer":["https://www.youtube.com/watch?v=f0uND6Lx5ZE"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 5"]},
-            {"name":"Moviecom",
-            "rooms":["Sala 4"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 5"]}
-            ]},
-            {"name":"Chapecó",
-              "cinemas":[
-                {"name":"Arcoplex",
-                "rooms":["Sala 5"]}
-              ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 5"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 5"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 5"]},
-                    {"name":"CineSystem",
-                    "rooms":["Sala 4"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 5"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 5"] },
+              { "name": "Moviecom", "rooms": ["Sala 4"] }
+            ]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 5"] }]
+          },
+          {
+            "name": "Chapecó",
+            "cinemas": [{ "name": "Arcoplex", "rooms": ["Sala 5"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 5"] },
+              { "name": "Moviecom", "rooms": ["Sala 5"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 5"] },
+              { "name": "CineSystem", "rooms": ["Sala 4"] },
+              { "name": "Kinoplex", "rooms": ["Sala 5"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":7,
+      "id": 7,
       "name": "Sonic 2",
       "category":["Aventura"],
       "duration":120,
@@ -294,45 +280,42 @@
       "trailer":["https://www.youtube.com/watch?v=IrJeYZgzIqw"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 1"]},
-            {"name":"Moviecom",
-            "rooms":["Sala 1"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 1"]}
-            ]},
-            {"name":"Chapecó",
-              "cinemas":[
-                {"name":"Arcoplex",
-                "rooms":["Sala 1"]}
-              ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 1"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 1"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 1"]},
-                    {"name":"CineSystem",
-                    "rooms":["Sala 1"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 1"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 1"] },
+              { "name": "Moviecom", "rooms": ["Sala 1"] }
+            ]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 1"] }]
+          },
+          {
+            "name": "Chapecó",
+            "cinemas": [{ "name": "Arcoplex", "rooms": ["Sala 1"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 1"] },
+              { "name": "Moviecom", "rooms": ["Sala 1"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 1"] },
+              { "name": "CineSystem", "rooms": ["Sala 1"] },
+              { "name": "Kinoplex", "rooms": ["Sala 1"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":8,
+      "id": 8,
       "name": "Animais Fantásticos: Os Segredos de Dumbledore",
       "category":["Aventura", "Fantasia"],
       "duration":142,
@@ -345,45 +328,42 @@
       "trailer":["https://www.youtube.com/watch?v=5SjYFF2g35c"],
       "movie_session":{
         "status": true,
-        "city":[
-          {"name":"Taubaté",
-          "cinemas":[
-            {"name":"Cinemark",
-            "rooms":["Sala 1"]},
-            {"name":"Moviecom",
-            "rooms":["Sala 1"]}
-          ]},
-          {"name":"Maringá",
-            "cinemas":[
-              {"name":"CineFlix",
-              "rooms":["Sala 1"]}
-            ]},
-            {"name":"Chapecó",
-              "cinemas":[
-                {"name":"Arcoplex",
-                "rooms":["Sala 1"]}
-              ]},
-              {"name":"Nova Hamburgo",
-                "cinemas":[
-                  {"name":"CineEspaço",
-                  "rooms":["Sala 1"]},
-                  {"name":"Moviecom",
-                  "rooms":["Sala 1"]}
-                ]},
-                {"name":"Rio de Janeiro",
-                  "cinemas":[
-                    {"name":"Cinemark",
-                    "rooms":["Sala 1"]},
-                    {"name":"CineSystem",
-                    "rooms":["Sala 1"]},
-                    {"name":"Kinoplex",
-                      "rooms":["Sala 1"]}
-                  ]}
+        "city": [
+          {
+            "name": "Taubaté",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 1"] },
+              { "name": "Moviecom", "rooms": ["Sala 1"] }
+            ]
+          },
+          {
+            "name": "Maringá",
+            "cinemas": [{ "name": "CineFlix", "rooms": ["Sala 1"] }]
+          },
+          {
+            "name": "Chapecó",
+            "cinemas": [{ "name": "Arcoplex", "rooms": ["Sala 1"] }]
+          },
+          {
+            "name": "Nova Hamburgo",
+            "cinemas": [
+              { "name": "CineEspaço", "rooms": ["Sala 1"] },
+              { "name": "Moviecom", "rooms": ["Sala 1"] }
+            ]
+          },
+          {
+            "name": "Rio de Janeiro",
+            "cinemas": [
+              { "name": "Cinemark", "rooms": ["Sala 1"] },
+              { "name": "CineSystem", "rooms": ["Sala 1"] },
+              { "name": "Kinoplex", "rooms": ["Sala 1"] }
+            ]
+          }
         ]
       }
     },
     {
-      "id":9,
+      "id": 9,
       "name": "Homem de Ferro",
       "category":["Super-Heróis", "Açao"],
       "duration":125,
@@ -399,7 +379,7 @@
       }
     },
     {
-      "id":10,
+      "id": 10,
       "name": "O Incrível Hulk",
       "category":["Super-Heróis", "Açao"],
       "duration":112,
@@ -415,7 +395,7 @@
       }
     },
     {
-      "id":11,
+      "id": 11,
       "name": "Homem de Ferro 2",
       "category":["Super-Heróis", "Açao"],
       "duration":125,
@@ -431,7 +411,7 @@
       }
     },
     {
-      "id":12,
+      "id": 12,
       "name": "Capitão América: O Primeiro Vingador",
       "category":["Super-Heróis", "Açao"],
       "duration":124,
@@ -447,7 +427,7 @@
       }
     },
     {
-      "id":13,
+      "id": 13,
       "name": "Thor",
       "category":["Super-Heróis", "Açao"],
       "duration":114,
@@ -463,7 +443,7 @@
       }
     },
     {
-      "id":14,
+      "id": 14,
       "name": "Homem de Ferro 3",
       "category":["Super-Heróis", "Açao"],
       "duration":130,
@@ -479,7 +459,7 @@
       }
     },
     {
-      "id":15,
+      "id": 15,
       "name": "Os Vingadores – The Avengers",
       "category":["Super-Heróis", "Açao"],
       "duration":143,
@@ -495,7 +475,7 @@
       }
     },
     {
-      "id":16,
+      "id": 16,
       "name": "Capitão América 2: O Soldado Invernal",
       "category":["Super-Heróis", "Açao"],
       "duration":136,
@@ -526,8 +506,9 @@
         "status": false
       }
     },
+
     {
-      "id":18,
+      "id": 18,
       "name": "Guardiões da Galáxia",
       "category":["Super-Heróis", "Açao"],
       "duration":122,
@@ -543,7 +524,7 @@
       }
     },
     {
-      "id":19,
+      "id": 19,
       "name": "Vingadores: Era de Ultron",
       "category":["Super-Heróis", "Açao"],
       "duration":141,
@@ -559,7 +540,7 @@
       }
     },
     {
-      "id":20,
+      "id": 20,
       "name": "Capitão América: Guerra Civil",
       "category":["Super-Heróis", "Açao"],
       "duration":148,
@@ -575,7 +556,7 @@
       }
     },
     {
-      "id":21,
+      "id": 21,
       "name": "Doutor Estranho no Multiverso da Loucura",
       "category":["Super-Heróis", "Terror"],
       "duration":126,
@@ -626,214 +607,145 @@
       }
     }
   ],
-  "city":[
+  "city": [
     {
-      "name":"Taubaté",
-      "cine":[
-        {"name":"Cinemark",
+      "name": "Taubaté",
+      "cine": [
+        {
+          "name": "Cinemark",
           "rooms": [
-            {"name":"Sala 1",
-              "time": ["14:00", "17:00", "20:00"]
-            },
-            {"name":"Sala 2",
-              "time": ["14:30", "17:30", "20:30"]
-            },
-            {"name":"Sala 3",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 4",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 5",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 3D",
-              "time": ["14:40", "17:40", "20:40"]
-            }
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 5", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
           ],
-        "price":{
-          "week":20,
-          "weekend":40
-        }
-      },
-        {"name":"Moviecom",
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        },
+        {
+          "name": "Moviecom",
           "rooms": [
-            {"name":"Sala 1",
-              "time": ["14:00", "17:00", "20:00"]
-            },
-            {"name":"Sala 2",
-              "time": ["14:30", "17:30", "20:30"]
-            },
-            {"name":"Sala 3",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 4",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 3D",
-              "time": ["14:40", "17:40", "20:40"]
-            }
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
           ],
-          "price":{
-            "week":20,
-            "weekend":40
+          "price": {
+            "week": 20,
+            "weekend": 40
           }
         }
       ]
     },
     {
-      "name":"Maringá",
-      "cine":[
-        {"name":"CineFlix",
+      "name": "Maringá",
+      "cine": [
+        {
+          "name": "CineFlix",
           "rooms": [
-            {"name":"Sala 1",
-              "time": ["14:00", "17:00", "20:00"]
-            },
-            {"name":"Sala 2",
-              "time": ["14:30", "17:30", "20:30"]
-            },
-            {"name":"Sala 3",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 4",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 3D",
-              "time": ["14:40", "17:40", "20:40"]
-            }
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
           ],
-          "price":{
-            "week":20,
-            "weekend":40
-          }}]
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        }
+      ]
     },
     {
-      "name":"Chapecó",
-      "cine":[
-        {"name":"Arcoplex",
+      "name": "Chapecó",
+      "cine": [
+        {
+          "name": "Arcoplex",
           "rooms": [
-            {"name":"Sala 1",
-              "time": ["14:00", "17:00", "20:00"]
-            },
-            {"name":"Sala 2",
-              "time": ["14:30", "17:30", "20:30"]
-            },
-            {"name":"Sala 3",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 4",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 3D",
-              "time": ["14:40", "17:40", "20:40"]
-            }
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
           ],
-          "price":{
-            "week":20,
-            "weekend":40
-          }}]
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        }
+      ]
     },
     {
-      "name":"Nova Hamburgo",
-      "cine":[
-        {"name":"CineEspaço",
+      "name": "Nova Hamburgo",
+      "cine": [
+        {
+          "name": "CineEspaço",
           "rooms": [
-            {"name":"Sala 1",
-              "time": ["14:00", "17:00", "20:00"]
-            },
-            {"name":"Sala 2",
-              "time": ["14:30", "17:30", "20:30"]
-            },
-            {"name":"Sala 3",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 4",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 3D",
-              "time": ["14:40", "17:40", "20:40"]
-            }
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
           ],
-          "price":{
-            "week":20,
-            "weekend":40
-          }}]
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        }
+      ]
     },
     {
-      "name":"Rio de Janeiro",
-      "cine":[
-        {"name":"Cinamark",
+      "name": "Rio de Janeiro",
+      "cine": [
+        {
+          "name": "Cinamark",
           "rooms": [
-            {"name":"Sala 1",
-              "time": ["14:00", "17:00", "20:00"]
-            },
-            {"name":"Sala 2",
-              "time": ["14:30", "17:30", "20:30"]
-            },
-            {"name":"Sala 3",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 4",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 5",
-              "time": ["15:00", "18:00", "21:00"]
-            },
-            {"name":"Sala 3D",
-              "time": ["14:40", "17:40", "20:40"]
-            }
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 5", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
           ],
-          "price":{
-            "week":20,
-            "weekend":40
-          }},
-          {"name":"CineSystem",
-            "rooms": [
-              {"name":"Sala 1",
-                "time": ["14:00", "17:00", "20:00"]
-              },
-              {"name":"Sala 2",
-                "time": ["14:30", "17:30", "20:30"]
-              },
-              {"name":"Sala 3",
-                "time": ["15:00", "18:00", "21:00"]
-              },
-              {"name":"Sala 4",
-                "time": ["15:00", "18:00", "21:00"]
-              },
-              {"name":"Sala 3D",
-                "time": ["14:40", "17:40", "20:40"]
-              }
-            ],
-            "price":{
-              "week":20,
-              "weekend":40
-            }},
-            {"name":"Kinoplex",
-              "rooms": [
-                {"name":"Sala 1",
-                  "time": ["14:00", "17:00", "20:00"]
-                },
-                {"name":"Sala 2",
-                  "time": ["14:30", "17:30", "20:30"]
-                },
-                {"name":"Sala 3",
-                  "time": ["15:00", "18:00", "21:00"]
-                },
-                {"name":"Sala 4",
-                  "time": ["15:00", "18:00", "21:00"]
-                },
-                {"name":"Sala 3D",
-                  "time": ["14:40", "17:40", "20:40"]
-                }
-              ],
-              "price":{
-                "week":20,
-                "weekend":40
-              }}
-        ]
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        },
+        {
+          "name": "CineSystem",
+          "rooms": [
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
+          ],
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        },
+        {
+          "name": "Kinoplex",
+          "rooms": [
+            { "name": "Sala 1", "time": ["14:00", "17:00", "20:00"] },
+            { "name": "Sala 2", "time": ["14:30", "17:30", "20:30"] },
+            { "name": "Sala 3", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 4", "time": ["15:00", "18:00", "21:00"] },
+            { "name": "Sala 3D", "time": ["14:40", "17:40", "20:40"] }
+          ],
+          "price": {
+            "week": 20,
+            "weekend": 40
+          }
+        }
+      ]
     }
-
-
   ]
 }
